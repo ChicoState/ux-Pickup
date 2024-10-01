@@ -1,3 +1,3 @@
 # Sketches
 
-![Sketch] (ux-Pickup/sketches/"Final PickUp Sketch.jpg")
+![Sketch](ux-Pickup/sketches/ "Final PickUp Sketch.jpg")
