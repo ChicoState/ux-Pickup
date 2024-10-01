@@ -1,3 +1,3 @@
 # Sketches
 
-![Sketch](Final_PickUp_Sketch.jpg")
+![Sketch](Final_PickUp_Sketch.jpg)
