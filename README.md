@@ -1,8 +1,8 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# Pickup
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Imagine a world in which you can **Pickup** your phone, and find a game to play in a matter of minutes. Introducing _Pickup_ a revolutionary app for you to find and meet like-minded poeple who want to play things like basketball. soccer, super smash bros, and anything you can possibily imagine.
 
 ## UX Team Members
 
