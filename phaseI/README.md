@@ -2,7 +2,8 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+With Pickup, we are trying to allow users to find people anywhere in the world and near them to play games at any given moment. You can imagine a world in which you **Pickup** your phone and in an instant you can go to soccer game. 
+_Rough draft__
 
 ## Methods
 
