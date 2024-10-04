@@ -4,7 +4,7 @@ Imagine a world in which you can **Pickup** your phone, and find a game to play 
 
 ## UX Team Members
 
-* **[Nathan Bryant](!!!URL to Person A's published portfolio!!!)** - Personas and Scenarios / Main Page
+* **[Nathan Bryant](!!!URL to Person A's published portfolio!!!)** - Personas and Scenarios / Main Page / Methods section of Phase1
 * **[Carson Howell](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Tommy Liu](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
