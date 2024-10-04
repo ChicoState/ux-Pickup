@@ -1,22 +1,20 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report !!!
-
 # Pickup
 
 Imagine a world in which you can **Pickup** your phone, and find a game to play in a matter of minutes. Introducing _Pickup_ a revolutionary app for you to find and meet like-minded poeple who want to play things like basketball. soccer, super smash bros, and anything you can possibily imagine.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Nathan Bryant](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[Carson Howell](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Tommy Liu](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
-* [Sketches and Diagrams](sketches/)
-* [Wireframes](wireframes/)
+* [Sketches and Diagrams](sketches/) 
+* [Wireframes](wireframes/) 
 * [Prototype](#)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
