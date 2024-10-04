@@ -4,7 +4,7 @@ Imagine a world in which you can **Pickup** your phone, and find a game to play 
 
 ## UX Team Members
 
-* **[Nathan Bryant](!!!URL to Person A's published portfolio!!!)** - Personas and Scenarios / Main Page / Methods section of Phase1
+* **[Nathan Bryant] - Personas and Scenarios / Main Page / Methods section of Phase1
 * **[Carson Howell](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Tommy Liu](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
@@ -21,10 +21,13 @@ Imagine a world in which you can **Pickup** your phone, and find a game to play 
 
 **Executive Summary**
 
-* Analyzed **Competitors** to ensure, we don’t fall into similar UI and UX traps. E.G. Clunky UI, aesthetics, disfunctional web design
-* Created sketches and diagrams of app style. This is to help our dev team figure out their **MVP**
-* Planned out how the UX will go, and the layout of our **SiteMap**
-* Brainstormed multiple personal and non-personal user stories for active development, in order to aid us with **Developing** an app and UI suited for every type of person
+* Utilized **Competitive Analysis** to reveal information about how we can improve our UI and UX feel without needing to start from scratch. Gave us a nice basis to go off of when beginning to create our digital representations
+* Began **Sketches and Diagrams**. This is to help our dev team figure out their **MVP** for our first sprint and give them a rough outline on what needs to be done, and what the general layout is going to look like.
+* Increased depth and breadth of **User Stories**, figuring out that our target audience is going to be 18-30 year olds, who are moving to a new town or in need of friends. This included Brainstorming multiple personal and non-personal user stories for active development.
+* Understood that the **Aesthetic** of our app should come first and foremost as most people will delete the app if it looks bad or doesnt feel good enough to use
+* **Heuristic Evaluation** of a close competitor gave us confidence that our app will work much better than their clunky piece of SAAS.
+
+
 
 [Full phase I report](phaseI/)
 
