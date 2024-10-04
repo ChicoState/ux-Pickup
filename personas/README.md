@@ -1,5 +1,6 @@
 # Personas
 Persona: Jason Martinez
+![Jason Martinez](https://images.pexels.com/photos/9158364/pexels-photo-9158364.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 * 24 year old Male born in Fort Lauderdale, Florida.
 * New student at Utah State studying finance, looking for an internship for the summer. Currently works at a local yogurt shop to pay through college.
