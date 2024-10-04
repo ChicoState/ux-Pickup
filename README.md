@@ -1,4 +1,4 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report !!!
 
 # Pickup
 
@@ -23,10 +23,10 @@ Imagine a world in which you can **Pickup** your phone, and find a game to play 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Analyzed **Competitors** to ensure, we don’t fall into similar UI and UX traps. E.G. Clunky UI, aesthetics, disfunctional web design
+* Created sketches and diagrams of app style. This is to help our dev team figure out their **MVP**
+* Planned out how the UX will go, and the layout of our **SiteMap**
+* Brainstormed multiple personal and non-personal user stories for active development, in order to aid us with **Developing** an app and UI suited for every type of person
 
 [Full phase I report](phaseI/)
 
