@@ -18,15 +18,12 @@ Last but not least *badum tsss*. We performed a Heuristic Evaluation on our top 
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
-- Heuristic Evaluation: One crucial aspect to someone using your app is its aesthetics. If an app does not look good or feel good to use, we find an alarming amount of users will drop the product. Avoid falling into this trap.
-- 
+-Found most competitor’s UI design to not handle error well
+- Found out our prototype design tends to be missing functions most audience would like to have
+- So far, paper sketches design are satisfactory with limited surveys but still requires broader audience for more balanced opinion
 
 ## Conclusions
-
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
-- 
+In conclusion, we found out that our competitor suffered from a factually clanky UI and a program that did not feel good to use. Which lead us down a road to **Aesthetics** becoming a top priority when it came to researching and will continue to be. Most users will drop an app pretty fast if it does not look good or feel good. From the **heuristic Evaluation** we did, we can conclude that our top competitor can be wiped out with a couple of simple fixes to UI and nothing major on the backend. Finally, from the user stories we concluded that the 18-30 year range would be our target audience, and it would be those who have either recently moved, or are looking for a place to meet new people. These would be the two driving factors in our customer base and would help drive app downloads. If we can just promote _Clean Aesthetics_, _decent UI_ and _easy way to meet new people_; Then I think we will have a hit! Definitely need more user testing and feedback which would be nice. But our Minimum Viable Product is becoming clearer.
 
 ## Caveats
-
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+- Although we have conducted tests and research, due to constraints of the project and time, we have not yet tested our design to real audiences so that our research results may be biased. We also only got a paper sketch of the design, so how the real prototype will fare towards real audience are still unknown.
