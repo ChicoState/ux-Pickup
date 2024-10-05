@@ -18,7 +18,7 @@ Last but not least *badum tsss*. We performed a Heuristic Evaluation on our top 
 
 ## Findings
 
--Found most competitor’s UI design to not handle error well
+- Found most competitor’s UI design to not handle error well
 - Found out our prototype design tends to be missing functions most audience would like to have
 - So far, paper sketches design are satisfactory with limited surveys but still requires broader audience for more balanced opinion
 
