@@ -9,8 +9,6 @@ Imagine a world in which you can **Pickup** your phone, and find a game to play 
 * [Tommy Liu] - Findings, Caveats
 
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/) 
