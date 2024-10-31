@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+This phase we are focusing on refining and honing in on that main idea of an app to find people to play games with. We found that before phase 2 we didn't really have a good idea as to what our product was gonna look like not only for us but for consumers as well. We want to find something that looks clean but feels unique from other products. Other than this we need alot of user feedback for our designs and our ideas of what Pickup should be. We are constantly going in between being a primarily sports app and being a full fledged app for everything "Gaming". 
 
 ## Methods
 
