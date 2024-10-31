@@ -35,10 +35,9 @@ Imagine a world in which you can **Pickup** your phone, and find a game to play 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+- Conducted *cognitive walkthroughs* with participants, yielding positive feedback. Users praised the app's aesthetics and how intuitive the navigation felt, reifnorcing our approach to design. 
+- **Informal Feedback** from 65 users highlighed the most desired features of our app. Filtering options to sort events by time, location, and type. Event details which have clear labels for posts, including participant requirements and the specifics of events. Calendar Integration, a more personal calendar to manage availability and avoid scheduling conflicts.
+- **Competitive Analysis**
 
 [Full phase II report](phaseII/)
 
