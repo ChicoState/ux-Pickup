@@ -33,9 +33,12 @@ Imagine a world in which you can **Pickup** your phone, and find a game to play 
 
 **Executive Summary**
 
+- 
 - Conducted *cognitive walkthroughs* with participants, yielding positive feedback. Users praised the app's aesthetics and how intuitive the navigation felt, reifnorcing our approach to design. 
 - **Informal Feedback** from 65 users highlighed the most desired features of our app. Filtering options to sort events by time, location, and type. Event details which have clear labels for posts, including participant requirements and the specifics of events. Calendar Integration, a more personal calendar to manage availability and avoid scheduling conflicts.
-- **Competitive Analysis**
+- **Competitive Analysis** revealed that while they target similar demographics, their user experiences are cumbersome. Also identified opportunities to differentiate Pickup by emphasizing a more streamlined and user friendly interfacing.
+- **Heuristic Evaluation** uncovered common issues such as confusing UI and inefficient information which takes away from the experience. Again, these insights grant us clearence into avoiding the pitfalls and enhancing our app's usability.
+- **Strategic focus for phase 3** Recognize the necessity to clarify **Pickup's** core purpose, whether as a platform for sports, video games, board games, or a combination. Plan to develop comprehensive user stories to better understand and address the diverse needs of our target audience.
 
 [Full phase II report](phaseII/)
 
