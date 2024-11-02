@@ -8,8 +8,31 @@ This phase we are focusing on refining and honing in on that main idea of an app
 While obtaining new findings we performed many impactful methods. Our most personal method was a **Cognitive Walthrough** 
 
 ## Findings
+- Cognitive Walkthrough: The feedbacks from the cognitive walkthrough are
+mostly positive, aside from some missing features that have not been
+implemented yet.
+- Informal Feedback: The testers for our product strongly recommend that we
+include a sorting/filtering feature into our app, so that they can find what they
+want more efficiently. The testers also suggested the use as labels and adding
+requirements as options for each of the posts they make.
+-  Filters
+- Filter by time and location
+-Location near me, then being able to filter timeslot
+- Filter by event type.
+- Labeling for each box in each posts
+- Adding requirements to post
+- Min/max of people for an event
+- Adding a calendar function to the user profile to be able to filter out events
+that are during classes/work, like when2meet, but only show the posts that
+work in your time frame
+- Competitive Analysis: By analyzing similar apps from our potential competitors,
+we found out that they generally aim for a similar audience as us, but their UX
+was not intuitive enough for people to fully resolve problems if the user has no
+prior UX knowledge or entered the wrong input.
+- Heuristic Evaluation: Our competitor has many flaws when it comes to their UX
+design which leads to a lot of confusion if information is not input correctly into
+their required fields.
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
 
 ## Conclusions
 Users appreciated our initial; wireframe designs, especially the aesthetics, which they found clean and visually appealing. This validation gave us more isngith into the importance of maintaining a streamlined, user friendly design as we move forward.
@@ -18,4 +41,9 @@ Understood that we need clearer goals, to refine our vision we will focus on sol
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+- A limitation for our testing is the fact that the testing of our cognitive
+walkthroughs are within the classroom, so that the range of audience was very
+limited.
+- Also due to the fact that the audience available for the testing are all in the same
+classroom, which can have a lot of bias mentally on how to navigate the app
+already
