@@ -5,7 +5,11 @@
 This phase we are focusing on refining and honing in on that main idea of an app to find people to play games with. We found that before phase 2 we didn't really have a good idea as to what our product was gonna look like not only for us but for consumers as well. We want to find something that looks clean but feels unique from other products. Other than this we need alot of user feedback for our designs and our ideas of what Pickup should be. We are constantly going in between being a primarily sports app and being a full fledged app for everything "Gaming". We are also trying not to clutter the interface or make it too complex to use, especially if we are an all inclusive app for everything gaming. There would be many options for those who want just sports and those who want just virtual/tabletop gaming.
 
 ## Methods
-While obtaining new findings we performed many impactful methods. Our most personal method was a **Cognitive Walthrough** 
+We conducted more research on users during this sprint to improve our project further. In the last phase, we focused on Competitive Analysis, which involved 3 users, and Heuristic Evaluation, which also involved three users, to research. In this phase, we used a Cognitive Walkthrough, which involved five users, and Informal Feedback, which involved 65 users. By increasing our user base, we increased input to get more valuable feedback.
+
+Cognitive walkthrough took users step by step through our wireframe documentation so the UX team could see any confusion that may arise. Ensuring the user knows where to go for each step without asking for help is necessary to make the product efficient, satisfying, and effective. The users provided feedback on what was easy to do and what questions arose from their use of the wireframes.
+
+Informal feedback was another helpful method, as it had a large user base that gave various opinions. Developers asked a class full of Software Engineering students what they would like the website to have and what features stood out from the competition. The answers to these questions were given back as feedback for the UX team to discuss during this sprint phase.
 
 ## Findings
 - Cognitive Walkthrough: The feedbacks from the cognitive walkthrough are
