@@ -19,14 +19,14 @@ User testing validated our design decisions. Using the protocol, we guided parti
 
 ## Findings
 [Spreadsheet of Data](https://docs.google.com/spreadsheets/d/1i2LcmuZxAalpHxGb26HLlYa6aGVpTe7--BuwcLc4Hks/edit?usp=sharing)
-	•	Introduction/background
-	•	Findings: People that have tested our product come from various backgrounds but mostly have hobbies involving sports or video games.
-	•	Findings: Almost all testers have minimal to none difficulty doing all of the above tasks assigned to them. Testers claim the buttons are easy to find.
-	•	Findings: Most testers claim that there is minimum difficulty trying to do our tasks, but also pointed out that the aesthetic of our website needs improvement. As it stands now, it is still considered “too plain” for a lot of people.
-	•	Overall Experience
-	•	Findings: All testers rate the experience on our product positively, rating it no less than ⅘.
-	•	Good, bad, ugly
-	•	Findings: Aside from what is mentioned above, nothing particularly worth mentioning
+- Introduction/background
+- Findings: People that have tested our product come from various backgrounds but mostly have hobbies involving sports or video games.
+- Findings: Almost all testers have minimal to none difficulty doing all of the above tasks assigned to them. Testers claim the buttons are easy to find.
+- Findings: Most testers claim that there is minimum difficulty trying to do our tasks, but also pointed out that the aesthetic of our website needs improvement. As it stands now, it is still considered “too plain” for a lot of people.
+- Overall Experience
+- Findings: All testers rate the experience on our product positively, rating it no less than ⅘.
+- Good, bad, ugly
+- Findings: Aside from what is mentioned above, nothing particularly worth mentioning
 
 
 ## Conclusions
