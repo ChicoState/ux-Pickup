@@ -5,7 +5,7 @@ Imagine a world in which you can **Pickup** your phone, and find a game to play 
 ## UX Team Members
 
 * [Nathan Bryant] - [Nathan Bryant's Portfolio](https://usabilityengineering.github.io/ux-jounal-NathanBryant/) Personas and Scenarios / Main Page / Methods / Executive Summary
-* [Carson Howell] - [Carson Howell's Portfolio](https://usabilityengineering.github.io/ux-journal-cthowell02/) - Sketches and Diagrams
+* [Carson Howell] - [Carson Howell's Portfolio](https://usabilityengineering.github.io/ux-journal-cthowell02/) - Sketches and Diagrams, Wireframe, Excel for User Feedback, Questions for Users, and Caveats/Conclusion/Introduction
 * [Tommy Liu] - Findings, Caveats
 
 # User-Centered Design Artifacts
