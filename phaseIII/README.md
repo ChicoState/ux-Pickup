@@ -6,6 +6,7 @@
 
 ## Methods
 Wireframe Refinement and Prototyping:
+
 In the final phase of Pickup’s development, we focused on refining wireframes for a seamless user experience. This involved improving visuals, layout, and interaction design based on usability principles. Iterations helped visualize the app's evolving structure while enhancing user engagement. We added interactivity to static wireframes by creating a working prototype. This allowed us to simulate user interactions and test key features for intuitiveness and accessibility. The prototype helped identify and fix issues early, streamlining development. Through iterative prototyping and feedback, we ensured the design met aesthetic and functional standards. Continuous refinement created a solid foundation for a user-friendly, visually appealing app.
 
 Prototype Testing Protocol:
