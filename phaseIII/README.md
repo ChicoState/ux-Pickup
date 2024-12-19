@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+In this phase, we focused on testing users on how the software ran. We found that before phase 2 we didn't really have a good idea as to what our product was going to look like not only for us, but for consumers as well. We want to find something clean but unique from other products. Besides this, we need a lot of user feedback for our designs and ideas of what Pickup should be. We are constantly going in between being a primarily sports app and being a full fledged app for everything "Gaming". We are also trying not to clutter the interface or make it too complex to use, especially if we are an all-inclusive app for everything gaming. There would be many options for those who want just sports and those who wish to just virtual/tabletop gaming. We found that users really liked the idea of meeting friends and being able to choose skill levels. Going to an event with knowing the amount of people there was a stress reliever for them.
 
 ## Methods
 Wireframe Refinement and Prototyping:
@@ -23,8 +23,10 @@ User testing validated our design decisions. Using the protocol, we guided parti
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Users appreciated our initial wireframe designs, especially the aesthetics, which they found clean and visually appealing. This validation gave us more insight into the importance of maintaining a streamlined, user-friendly design as we move forward. Analyzed competitor products, identifying clear strengths and weaknesses, allowing us to integrate features while addressing potential downfalls before it is too late. This approach ensures our product continues with a best-practice mindset without inheriting common problems. It is understood that we need clearer goals. To refine our vision, we will focus on solidifying our objectives and developing more in-depth User Stories. With a clearer direction, we can resolve some of the cloudiness that still looms over our target focus, whether we should cater exclusively to sports or expand to include board and video gaming.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+A limitation of our testing is the fact that the testing of our cognitive walkthroughs are within the classroom, so the range of the audience is very limited.
+Also, since the audience available for the testing is all in the same classroom, which can have a lot of bias mentally on how to navigate the app already.
+Although the app is intended for younger audiences since that group is the most active, it would benefit to get a wider age range.
