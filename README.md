@@ -4,7 +4,7 @@ Imagine a world in which you can **Pickup** your phone, and find a game to play 
 
 ## UX Team Members
 
-* [Nathan Bryant] - [Nathan Bryant's Portfolio](https://usabilityengineering.github.io/ux-jounal-NathanBryant/) Personas and Scenarios / Main Page / Methods /
+* [Nathan Bryant] - [Nathan Bryant's Portfolio](https://usabilityengineering.github.io/ux-jounal-NathanBryant/) Personas and Scenarios / Main Page / Methods / Executive Summary
 * [Carson Howell] - [Carson Howell's Portfolio](https://usabilityengineering.github.io/ux-journal-cthowell02/) - Sketches and Diagrams
 * [Tommy Liu] - Findings, Caveats
 
@@ -45,9 +45,15 @@ As a team **Pickup** has changed from an Android Application to a web app and we
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Refined Prototypes: Developed interactive prototypes to simulate key user interactions, ensuring they align with user expectations for ease of use, navigation, and design clarity.
+
+* Systematic User Testing: Created a detailed testing protocol with tasks focused on core functions such as account creation, event creation, joining events, and filtering/searching for events. This ensured consistent data collection and clear evaluation criteria.
+
+* Account Creation: Most users found this task easy (rated 4-5). Suggestions included adding more intuitive prompts for profile personalization.
+* Event Creation: Users appreciated the simplicity but requested clearer options for setting game details (e.g., location and participant limits).
+* Joining Events: Generally rated easy, but some users suggested improving event descriptions for clarity.
+* Filtering/Searching Events: Mixed feedback highlighted the need for more precise filters (e.g., by location, skill level, or game type).
+
+
 
 [Full phase III report](phaseIII/)
