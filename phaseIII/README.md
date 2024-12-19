@@ -18,6 +18,7 @@ User Testing and Feedback Analysis:
 User testing validated our design decisions. Using the protocol, we guided participants through tasks, ensuring ethical standards with consent forms and CITI verification. This preparation ensured professional and unbiased feedback collection. Participants interacted with the functional prototype, providing real-time feedback through think-aloud sessions. We observed navigation, confusion points, and task completion ease to identify areas for improvement. Post-testing analysis revealed key issues and successful elements. These insights helped refine the app’s design, ensuring a smoother, more effective user experience.
 
 ## Findings
+[Spreadsheet of Data]([https://example.com](https://docs.google.com/spreadsheets/d/1i2LcmuZxAalpHxGb26HLlYa6aGVpTe7--BuwcLc4Hks/edit?usp=sharing))
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
 
