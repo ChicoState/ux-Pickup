@@ -45,17 +45,23 @@ As a team **Pickup** has changed from an Android Application to a web app and we
 
 **Executive Summary**
  
-* Created interactive prototypes based on refined wireframes to simulate core user tasks like account creation, event creation, and filtering events.
- 
-* Conducted structured user testing to gather feedback on ease of navigation and feature clarity.
+- Developed Prototypes: Created interactive prototypes with refined wireframes to simulate key tasks like account creation, event creation, and filtering events.
 
-Key Changes:
+- User Testing: Conducted structured tests using a detailed protocol, gathering feedback on navigation and feature clarity.
 
-* Improved Onboarding: Simplified the account creation process with clearer prompts.
-* Enhanced Filters: Added more precise filtering options for location, skill level, and game type.
-* Event Details: Clarified event descriptions, including location, participant limits, and game specifics.
-* Streamlined Navigation: Adjusted the layout to make key features more accessible.
-* These changes enhance usability, making Pickup intuitive, efficient, and better aligned with user needs.
+- Full Prototype Implementation: Built a complete prototype for the Pickup app and tested it with numerous users.
+
+- Certification & Protocol: Achieved CITI certification and designed a comprehensive testing protocol.
+
+- User-Centered Refinements: Spent extensive time with users to improve UI and UX based on real-time feedback.
+
+Key Improvements:
+
+- Onboarding: Simplified account creation with clearer prompts.
+- Filters: Added precise filtering options for location, skill level, and game type.
+- Event Details: Enhanced clarity in event descriptions (location, participant limits, and specifics).
+- Navigation: Improved layout for easier access to key features.
+These changes make Pickup intuitive, efficient, and closely aligned with user needs.
 
 
 [Full phase III report](phaseIII/)
