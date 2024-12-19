@@ -13,7 +13,7 @@ Imagine a world in which you can **Pickup** your phone, and find a game to play 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/) 
 * [Wireframes](wireframes/) 
-* [Prototype](#)
+* [Prototype](https://www.figma.com/proto/0ytLUPJcX1VBVTpvRsm9Qh/1st-Wireframes?node-id=6-791&p=f&t=kxECCvyXUsXWvi4u-1&scaling=min-zoom&content-scaling=fixed&page-id=6%3A491&starting-point-node-id=6%3A791)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
